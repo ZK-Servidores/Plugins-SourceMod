@@ -1,4 +1,4 @@
-# Plugins-SourceMod
+# Plugins SourceMod
 Lista de plugins SourceMod modificados/mantidos pela ZK Servidores™.
 
 ## [CORE] Steam Works Group Manager
