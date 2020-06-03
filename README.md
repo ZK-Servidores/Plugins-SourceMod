@@ -11,5 +11,5 @@ Plugins | Description | Download
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
-- [crashzk[(https://github.com/crashzk)
+- [crashzk](https://github.com/crashzk)
 - [biielzk](https://github.com/biielzk)
