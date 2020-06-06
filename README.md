@@ -8,6 +8,9 @@ Plugins | Description | Download
 **High Ping Kicker** | Kick players that exceed the configured ping limit | [Link](https://github.com/zkservidores-clientes/High-Ping-Kicker)
 **Show Damage** | Will show the damage on the Hint (HUD) | [Link](https://github.com/zkservidores-clientes/Show-Damage)
 **Agents CSGO** | Choose any CSGO Agent Skin | [Link](https://github.com/zkservidores-clientes/Agents-CSGO)
+**Automatic Response** | Sends an autoresponder to the player when you type the command | [Link](https://github.com/zkservidores-clientes/Automatic-Response)
+**Block Commands** | | [Link]()
+**Block Tag Groups** | | [Link]()
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
