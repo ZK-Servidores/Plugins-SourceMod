@@ -11,7 +11,7 @@ Plugins | Description | Download
 **Automatic Response** | Sends an autoresponder to the player when you type the command | [Link](https://github.com/zkservidores-clientes/Automatic-Response)
 **Block Commands** | Blocks commands sent on the server console to crash or cause bugs | [Link](https://github.com/zkservidores-clientes/Block-Commands)
 **Block Tag Groups** | Block bind to switch steam group | [Link](https://github.com/zkservidores-clientes/Block-Tag-Groups)
-**WarMod [BFG] | ZK Servidores™** | An automative service for CS:GO competition matches | [Link](https://github.com/zkservidores-clientes/WarMod-BFG-ZK-Servidores)
+**WarMod [BFG] - ZK Servidores™** | An automative service for CS:GO competition matches | [Link](https://github.com/zkservidores-clientes/WarMod-BFG-ZK-Servidores)
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
