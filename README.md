@@ -1,7 +1,7 @@
 # Plugins SourceMod
 List of SourceMod plugins modified/maintained by **ZK Servidores™**.
 
-**Plugins** | **Description** |   **Last Update**   | **Download**
+**Plugins** | **Description** | **Last Update** | **Download**
 :--------: | -------- | :--------: | :--------:
 **[CORE] Steam Works Group Manager** | This plugin provides additional features for other plugins, functioning as a core | 06.14.2020 | [Link](https://github.com/zkservidores-clientes/SWGM)
 **Fake Rank, Coins & Profile** | Player can use Fake Rank, Coins & Profile Level in server | 06.14.2020 | [Link](https://github.com/zkservidores-clientes/Fake-Rank-Coins-Profile)
