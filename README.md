@@ -12,6 +12,7 @@ Plugins | Description | Last Update | Download
 **Block Commands** | Blocks commands sent on the server console to crash or cause bugs | 06.14.2020 | [Link](https://github.com/zkservidores-clientes/Block-Commands)
 **Block Tag Groups** | Block bind to switch steam group | 06.14.2020 | [Link](https://github.com/zkservidores-clientes/Block-Tag-Groups)
 **WarMod [BFG] - ZK Servidores™** | An automative service for CS:GO competition matches | 06.14.2020 | [Link](https://github.com/zkservidores-clientes/WarMod-BFG-ZK-Servidores)
+**List Seed WS Skins** | View all skins seeds on the console (!ws) | 06.25.2020 | [Link](https://github.com/zkservidores-clientes/List-Seed-WS-Skins)
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
