@@ -12,7 +12,7 @@ List of SourceMod plugins modified/maintained by **ZK Servidores™**.
 **Block Commands** | Blocks commands sent on the server console to crash or cause bugs. | [Link](https://github.com/zkservidores-clientes/Block-Commands) |
 **Block Tag Groups** | Block bind to switch steam group. | [Link](https://github.com/zkservidores-clientes/Block-Tag-Groups) |
 **WarMod [BFG] - ZK Servidores™** | An automative service for CS:GO competition matches. | [Link](https://github.com/zkservidores-clientes/WarMod-BFG-ZK-Servidores) |
-**List Seed WS Skins** | View all skins seeds on the console (!ws). | [Link](https://github.com/zkservidores-clientes/List-Seed-WS-Skins) |
+**CSGO Team Logo Manager** | Add teams logo on the server scoreboard. | [Link](https://github.com/zkservidores-clientes/CSGO-Team-Logo-Manager) |
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
