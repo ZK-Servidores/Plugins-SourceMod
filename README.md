@@ -2,7 +2,7 @@
 List of SourceMod plugins modified/maintained by **ZK Servidores™**.
 
 **Plugins** | **Description** | **Plugin Game** | **Download** |
-:--------: | -------- |  -------- | :--------: |
+:--------: | -------- |  :--------: | :--------: |
 **[CORE] Steam Works Group Manager** | This plugin provides additional features for other plugins, functioning as a core. | CSGO | [Link](https://github.com/zkservidores-clientes/SWGM) |
 **Fake Rank, Coins & Profile** | Player can use Fake Rank, Coins & Profile Level in server. | CSGO | [Link](https://github.com/zkservidores-clientes/Fake-Rank-Coins-Profile) |
 **High Ping Kicker** | Kick players that exceed the configured ping limit. | CSGO | [Link](https://github.com/zkservidores-clientes/High-Ping-Kicker) |
