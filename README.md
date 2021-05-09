@@ -10,7 +10,7 @@ List of SourceMod plugins modified/maintained by **ZK Servidores™**.
 **Block Commands** | Blocks commands sent on the server console to crash or cause bugs. | CS:GO | [Link](https://github.com/ZK-Servidores/Block-Commands) |
 **Block Tag Groups** | Block bind to switch steam group. | CS:GO | [Link](https://github.com/ZK-Servidores/Block-Tag-Groups) |
 **WarMod [BFG] - ZK Servidores™** | An automative service for CS:GO competition matches. | CS:GO | [Link](https://github.com/ZK-Servidores/WarMod-BFG-ZK-Servidores) |
-**Team Logo Manager** | Add teams logo on the server scoreboard. | CS:GO | [Link](https://github.com/ZK-Servidores/CS:GO-Team-Logo-Manager) |
+**Team Logo Manager** | Add teams logo on the server scoreboard. | CS:GO | [Link](https://github.com/ZK-Servidores/CSGO-Team-Logo-Manager) |
 **Music Kits Valve** | Allows you to choose any official Valve Music Kits. | CS:GO | [Link](https://github.com/rogeraabbccdd/Music-Kits) |
 **Weapon Restrict** | Restrict the use of weapons. | CS:GO | [Link](https://github.com/ZK-Servidores/Weapon-Restrict) |
 **Block AWP Non VIP** | Doesn't allow certain clients to use an AWP. | CS:GO | [Link](https://github.com/ZK-Servidores/Block-AWP-Non-VIP) |
