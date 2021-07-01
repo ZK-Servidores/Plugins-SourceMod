@@ -14,6 +14,7 @@ List of SourceMod plugins modified/maintained by **ZK Servidores™**.
 **Music Kits Valve** | Allows you to choose any official Valve Music Kits. | CS:GO | [Link](https://github.com/rogeraabbccdd/Music-Kits) |
 **Weapon Restrict** | Restrict the use of weapons. | CS:GO | [Link](https://github.com/ZK-Servidores/Weapon-Restrict) |
 **Block AWP Non VIP** | Doesn't allow certain clients to use an AWP. | CS:GO | [Link](https://github.com/ZK-Servidores/Block-AWP-Non-VIP) |
+**Anti Camp** | Detects campers and apply punishments. | CS:GO |[Link](https://github.com/ZK-Servidores/AntiCamp)
 
 ## Contributions
 Users who help maintain modifications/maintenance of plugins.
